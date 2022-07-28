@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\angelicac\ProjetosReact\todo-list\src\App.test.tsx">
+    <testCase name="testando App.tsx, quando:  adiciono uma tarefa a mesma aparece no DOM e o input é limpo" duration="223"/>
+    <testCase name="testando App.tsx, quando:  quando adiciono uma tarefa vazia e é apresentado um alerta" duration="234"/>
+    <testCase name="testando App.tsx, quando:  quando tento adicionar uma tarefa já existente e é apresentado um alerta" duration="101"/>
+    <testCase name="testando App.tsx, quando:  quando excluo uma tarefa e ela sai do DOM" duration="119"/>
+  </file>
+</testExecutions>
